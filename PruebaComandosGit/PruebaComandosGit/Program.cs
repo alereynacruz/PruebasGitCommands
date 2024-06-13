@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using System.Diagnostics;
 
 namespace PruebaComandosGit
 {
@@ -10,6 +6,14 @@ namespace PruebaComandosGit
     {
         static void Main(string[] args)
         {
+            string gitCommand = "git";
+            string gitAddArgument = @"add -A";
+            string gitCommitArgument = @"commit ""Agregadndo cambios a Git Hub""";
+            string gitPushArgument = @"push origin main";
+
+            Process.Start(gitCommand, gitAddArgument);
+            Process.Start(gitCommand, gitCommitArgument);
+            Process.Start(gitCommand, gitPushArgument);
         }
     }
 }

@@ -1,0 +1,7 @@
+C:\Users\narc8\OneDrive\Documentos\TotalTech\Demos\PruebasGitCommands\PruebaComandosGit\PruebaComandosGit\bin\Debug\PruebaComandosGit.exe.config
+C:\Users\narc8\OneDrive\Documentos\TotalTech\Demos\PruebasGitCommands\PruebaComandosGit\PruebaComandosGit\bin\Debug\PruebaComandosGit.exe
+C:\Users\narc8\OneDrive\Documentos\TotalTech\Demos\PruebasGitCommands\PruebaComandosGit\PruebaComandosGit\bin\Debug\PruebaComandosGit.pdb
+C:\Users\narc8\OneDrive\Documentos\TotalTech\Demos\PruebasGitCommands\PruebaComandosGit\PruebaComandosGit\obj\Debug\PruebaComandosGit.csproj.AssemblyReference.cache
+C:\Users\narc8\OneDrive\Documentos\TotalTech\Demos\PruebasGitCommands\PruebaComandosGit\PruebaComandosGit\obj\Debug\PruebaComandosGit.csproj.CoreCompileInputs.cache
+C:\Users\narc8\OneDrive\Documentos\TotalTech\Demos\PruebasGitCommands\PruebaComandosGit\PruebaComandosGit\obj\Debug\PruebaComandosGit.exe
+C:\Users\narc8\OneDrive\Documentos\TotalTech\Demos\PruebasGitCommands\PruebaComandosGit\PruebaComandosGit\obj\Debug\PruebaComandosGit.pdb
